@@ -23,8 +23,6 @@ To get started with the project, follow these steps:
 
 Clone the repository: git clone https://github.com/your-username/your-portfolio-repo.git
 Open the index.html file in your preferred web browser to view the portfolio.
-Usage
-Feel free to use this code as a template for your own portfolio. Customize the content, add your projects, and personalize it to reflect your skills and experience.
 
 Contributing
 If you find any issues or have suggestions for improvement, please feel free to open an issue or create a pull request. Contributions are welcome!
