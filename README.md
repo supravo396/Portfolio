@@ -1,13 +1,15 @@
 Supravo Roy - Portfolio
 Welcome to my personal portfolio repository! This repository contains the HTML and CSS code for my portfolio website, showcasing my skills, projects, and contact information.
 
-Table of Contents
-Introduction
-Features
-Getting Started
-Usage
-Contributing
+Table of Contents:
+Introduction,
+Features,
+Getting Started,
+Usage,
+Contributing,
 License
+
+
 Introduction
 This repository contains the source code for Supravo Roy's portfolio website. The website is designed to highlight my skills, projects, and provide a way for visitors to contact me.
 
