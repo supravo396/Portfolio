@@ -22,7 +22,7 @@ Getting Started
 To get started with the project, follow these steps:
 
 Clone the repository: git clone https://github.com/your-username/your-portfolio-repo.git
-Open the index.html file in your preferred web browser to view the portfolio.
+Open the index.html file from CV in your preferred web browser to view the portfolio.
 
 Contributing
 If you find any issues or have suggestions for improvement, please feel free to open an issue or create a pull request. Contributions are welcome!
